@@ -1,0 +1,12 @@
+com\maven\cpuApi\RecordNotFoundException.class
+com\maven\cpuApi\SocketSimplified.class
+com\maven\cpuApi\CpuController.class
+com\maven\cpuApi\App.class
+com\maven\cpuApi\CpuApiExceptionHandler.class
+com\maven\cpuApi\ErrorResponse.class
+com\maven\cpuApi\Socket.class
+com\maven\cpuApi\CpuRepository.class
+com\maven\cpuApi\EmptyRecordException.class
+com\maven\cpuApi\SocketRepository.class
+com\maven\cpuApi\Cpu.class
+com\maven\cpuApi\SocketController.class
