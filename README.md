@@ -18,3 +18,4 @@ Check my Angular client app (which took me MUCH more time btw)
 
 ## Requirements to launch:
 - jre1.8.0_221 or newer
+- connection to a database matching the models
